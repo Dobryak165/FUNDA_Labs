@@ -1,0 +1,29 @@
+Выражение 1: A (B (E (G, T, R (W, Z)), F (L, M)), C)
+A
+    B
+        E
+            G
+            T
+            R
+                W
+                Z
+        F
+            L
+            M
+    C
+
+Выражение 2: A(B,C,D)
+A
+    B
+    C
+    D
+
+Выражение 3: Root(Left(Leaf),Right)
+Root
+    Left
+        Leaf
+    Right
+
+Выражение 4: X
+X
+
